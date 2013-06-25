@@ -8,7 +8,7 @@ public class Jogador {
 	
 	//armazena o tipo de mao que o jogador possui. Pair, Two Pair...
 	private String tipoMao;
-	
+	 
 	//lista que ira referenciar as cartas kicker do jogador
 	//esta lista ira conter cartas da lista cartas
 	private ArrayList<Carta> kicker;
