@@ -11,7 +11,7 @@ public class Jogo {
 
   // variavel que ira referencia a lista de todos os jogadores
 	private ArrayList<Jogador> jogadores;
-	
+	 
 	//variave que ira referenciar o jogador vencedor
 	private Jogador vencedor;
 	
