@@ -5,7 +5,7 @@ import texasHoldEm.Modelo.Beans.*;
 
 public abstract class ClassificarMaoPoker {
 
-  public abstract ArrayList<Carta> mesmoValor( int qtdCarta, ArrayList<Carta> cartas );
+  	public abstract ArrayList<Carta> mesmoValor( int qtdCarta, ArrayList<Carta> cartas );
 	
 	public abstract ArrayList<Carta> mesmoNipe( int qtdCarta, ArrayList<Carta> cartas );
 	
